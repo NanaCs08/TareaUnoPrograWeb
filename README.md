@@ -1,2 +1,1 @@
-# TareaUnoPrograWeb
-Tarea uno progra web
+php -S localhost:8000 -t htdocs
